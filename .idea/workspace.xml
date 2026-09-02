@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74db76a7-3b07-49ce-8fb1-6660ea5dcdca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Concession_Stand_Program.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="74db76a7-3b07-49ce-8fb1-6660ea5dcdca" name="Changes" comment="Create concession stand program with menu and cart system" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,9 +179,22 @@
       <option name="presentableId" value="Default" />
       <updated>1788271292038</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create concession stand program with menu and cart system">
+      <option name="closed" value="true" />
+      <created>1788348544369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788348544369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create concession stand program with menu and cart system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create concession stand program with menu and cart system" />
   </component>
 </project>
